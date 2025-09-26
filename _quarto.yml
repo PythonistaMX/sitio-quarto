@@ -4,8 +4,11 @@ project:
 website:
   title: "PythonistaMX"
   description: "Sitio de la comunidad PythonistaMX"
+  site-url: "https://pythonistamx.github.io/sitio-quarto"
+  repo-url: "https://github.com/PythonistaMX/sitio-quarto"
   
   navbar:
+    title: "PythonistaMX"
     left:
       - href: index.qmd
         text: Inicio
@@ -13,6 +16,10 @@ website:
         text: Acerca de
       - href: blog/index.qmd
         text: Blog
+    right:
+      - icon: github
+        href: https://github.com/PythonistaMX
+        aria-label: GitHub
 
   sidebar:
     - title: "Navegación"
@@ -22,11 +29,20 @@ website:
         - href: about.qmd
           text: Acerca de
 
+  page-footer:
+    left: "© 2024 PythonistaMX. Contenido bajo licencia MIT."
+    right: 
+      - icon: github
+        href: https://github.com/PythonistaMX
+        aria-label: GitHub
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    date-format: "DD MMMM YYYY"
+    lang: es
 
 execute:
   freeze: auto

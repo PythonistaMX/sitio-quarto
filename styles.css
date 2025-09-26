@@ -1,0 +1,40 @@
+/* Custom styles for PythonistaMX site */
+
+:root {
+  --primary-color: #306998;
+  --secondary-color: #ffd43b;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.title-block-banner {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+}
+
+/* Code blocks styling */
+pre {
+  border-radius: 8px;
+}
+
+/* Links styling */
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+/* Footer styling */
+.footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dee2e6;
+}

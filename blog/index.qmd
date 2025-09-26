@@ -1,0 +1,16 @@
+---
+title: "Blog PythonistaMX"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Blog de la Comunidad
+
+Aquí encontrarás artículos, tutoriales y noticias relacionadas con Python y la comunidad PythonistaMX.

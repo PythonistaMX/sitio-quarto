@@ -1,0 +1,35 @@
+---
+title: "Bienvenidos al nuevo sitio de PythonistaMX"
+author: "Equipo PythonistaMX"
+date: "2024-01-15"
+categories: [anuncios, comunidad]
+description: "Presentamos el nuevo sitio web de la comunidad PythonistaMX, construido con Quarto"
+---
+
+# ¡Nuevo sitio web!
+
+Estamos emocionados de presentar el nuevo sitio web de PythonistaMX, construido con [Quarto](https://quarto.org).
+
+## ¿Por qué Quarto?
+
+Quarto nos permite:
+
+- Crear contenido fácilmente usando Markdown
+- Integrar código Python de manera nativa
+- Generar sitios web estáticos rápidos y seguros
+- Mantener el sitio con control de versiones
+
+## ¿Qué viene después?
+
+Estaremos publicando regularmente:
+
+- Tutoriales de Python
+- Noticias de la comunidad
+- Anuncios de eventos
+- Proyectos destacados
+
+¡Mantente al pendiente!
+
+```python
+print("¡Bienvenidos a PythonistaMX!")
+```

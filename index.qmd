@@ -1,0 +1,37 @@
+---
+title: "Bienvenidos a PythonistaMX"
+---
+
+# Comunidad PythonistaMX
+
+¡Bienvenidos al sitio oficial de la comunidad PythonistaMX!
+
+## Acerca de nosotros
+
+PythonistaMX es una comunidad mexicana dedicada al desarrollo y promoción del lenguaje de programación Python. Nos enfocamos en:
+
+- Compartir conocimientos sobre Python
+- Organizar eventos y talleres
+- Fomentar el networking entre desarrolladores
+- Promover las mejores prácticas de programación
+
+## ¿Qué encontrarás aquí?
+
+En este sitio podrás encontrar:
+
+- Artículos y tutoriales sobre Python
+- Información sobre nuestros eventos
+- Recursos de aprendizaje
+- Enlaces a proyectos de la comunidad
+
+## Únete a la comunidad
+
+¿Te interesa formar parte de nuestra comunidad? ¡Perfecto! Puedes encontrarnos en:
+
+- **GitHub**: [github.com/PythonistaMX](https://github.com/PythonistaMX)
+- **Twitter**: [@PythonistaMX](https://twitter.com/PythonistaMX)
+- **Telegram**: Grupo de Telegram PythonistaMX
+
+---
+
+*Sitio creado con [Quarto](https://quarto.org) - Un sistema de publicación científica y técnica de código abierto*

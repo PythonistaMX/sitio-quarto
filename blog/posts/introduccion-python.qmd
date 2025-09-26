@@ -1,0 +1,67 @@
+---
+title: "Introducción a Python para Principiantes"
+author: "PythonistaMX"
+date: "2024-01-20"
+categories: [python, tutorial, principiantes]
+description: "Una guía básica para comenzar con Python desde cero"
+---
+
+# ¿Qué es Python?
+
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Es conocido por su sintaxis clara y legible, lo que lo convierte en una excelente opción para principiantes.
+
+## ¿Por qué elegir Python?
+
+- **Fácil de aprender**: Sintaxis simple y clara
+- **Versátil**: Útil para web, análisis de datos, IA, automatización, etc.
+- **Gran comunidad**: Amplio ecosistema de bibliotecas y frameworks
+- **Multiplataforma**: Funciona en Windows, macOS y Linux
+
+## Tu primer programa en Python
+
+```python
+# Este es un comentario
+print("¡Hola, mundo!")
+
+# Variables
+nombre = "PythonistaMX"
+año = 2024
+
+# Usando las variables
+print(f"Bienvenido a {nombre} en el año {año}")
+```
+
+## Tipos de datos básicos
+
+Python maneja varios tipos de datos:
+
+```python
+# Números
+entero = 42
+flotante = 3.14
+
+# Texto
+texto = "¡Hola, Python!"
+
+# Listas
+frutas = ["manzana", "banana", "naranja"]
+
+# Diccionarios
+persona = {
+    "nombre": "Ana",
+    "edad": 25,
+    "ciudad": "Ciudad de México"
+}
+
+# Booleanos
+es_python_genial = True
+```
+
+## Próximos pasos
+
+1. Instala Python desde [python.org](https://python.org)
+2. Prueba un editor como VS Code o PyCharm
+3. Experimenta con los ejemplos de código
+4. Únete a nuestra comunidad para hacer preguntas
+
+¡Bienvenido al mundo de Python! 🐍

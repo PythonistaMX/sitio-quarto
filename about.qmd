@@ -1,0 +1,33 @@
+---
+title: "Acerca de PythonistaMX"
+---
+
+# Nuestra Historia
+
+PythonistaMX nació con el objetivo de reunir a desarrolladores mexicanos interesados en Python y crear un espacio de colaboración y aprendizaje.
+
+## Misión
+
+Promover el uso y desarrollo de Python en México, creando una comunidad sólida de desarrolladores que compartan conocimientos, experiencias y mejores prácticas.
+
+## Visión
+
+Ser la principal comunidad de Python en México, reconocida por la calidad de sus contenidos, eventos y el apoyo mutuo entre sus miembros.
+
+## Valores
+
+- **Colaboración**: Trabajamos juntos para crear mejores soluciones
+- **Aprendizaje**: Fomentamos el crecimiento continuo
+- **Inclusión**: Creamos un espacio para todos los niveles de experiencia
+- **Calidad**: Nos esforzamos por compartir contenido de alta calidad
+
+## El Equipo
+
+Somos un grupo de desarrolladores apasionados por Python que dedicamos nuestro tiempo libre a hacer crecer la comunidad.
+
+## Contacto
+
+¿Tienes preguntas o quieres colaborar? Nos encantaría saber de ti:
+
+- **Email**: contacto@pythonistamx.org
+- **GitHub**: [github.com/PythonistaMX](https://github.com/PythonistaMX)
